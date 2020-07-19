@@ -1,0 +1,11 @@
+---
+title: "About This Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    includes:
+      after_body: footer.html
+---
+
+More about this website.

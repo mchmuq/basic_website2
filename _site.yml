@@ -1,0 +1,10 @@
+name: "my-website"
+theme: lumen
+runtime: shiny
+navbar:
+  title: "SPCG3343"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
